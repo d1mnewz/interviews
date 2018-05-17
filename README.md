@@ -30,6 +30,6 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 
 # What you can ask company
 
-# # Project
+## Project
 
-# # General
+## General
