@@ -28,4 +28,8 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 # Non-technical
 
 
+# What you can ask company
 
+# # Project
+
+# # General
