@@ -14,18 +14,66 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 # Algorithms
 
 # Coding Skills
-
+* OOP
+* OOP weaknesses
+* procedural / functional / OO: can you describe them?
+* What is the value object? Why should you use them?
+* What is IoC? 
+* What is Dependency Inversion? 
+* What is Dependency Injection?
+* Why are interfaces important? 
+* If you have a choice between abstract class and interface, what will you pick?
+* Multithreading concepts
+* Concurrency
+  * Difference between optimistic and pessimistic concurrency models
+  * Difference between being async and concurrent
+* Explain the concepts of coupling and cohesion and how they relate to maintainability. As a follow up, please explain afferent coupling and efferent coupling, and how those concepts fit above.
+* What is refactoring?
+* LINQ, LINQ to SQL
 # Low-Level Programming
+* What is Garbage Collector? What problem it solves?
+* How Garbage Collector works? What are the steps?
+* GC Generations
+* What is non-deterministic finalization?
+* Explain weak references
+* Describe the process of memory allocation
+* IDisposable and Finalizer
+* Stack/heap
+* Large object heap
+* SIMD
+* Sockets
 
 # Architecture/OOD
+* SOLID
+* What are GoF design patterns? Why should you care?
+* Name a few anti-patterns
+* What is MVC? Explain it using ASP.NET example. Define responsibilities. 
+* What is MVVM? Define responsibilities for each component.
+* Layered architecture
+* What is CQRS? 
+* What is a command in CQRS terms?
+* Which type of projects is the best to introduce CQRS?
+* Difference between statefull and stateless service.
 
 # Database
 
 # Testing
-
+* What is unit test? Academic definition vs real world definition
+* What is the difference between unit/integration/automated test? Discuss examples
+* What is TDD?
+* 
 # General
+* How testing frameworks such as xUnit & NUnit know what methods to run?
+* What is Docker?
+
+* 
 
 # Non-technical
+* What motivates you? 
+* Last book you read
+* Why would you leave your current company?
+* What do you do when you get stuck on some problem for too long? 
+* Tell me your 3 best failures
 
 
 # What you can ask company
