@@ -12,6 +12,10 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 # Data Structures
 
 # Algorithms
+* Given a a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
+* Reverse a linked list
+* Find a loop in a linked list
+* 
 
 # Coding Skills
 * OOP
@@ -51,17 +55,35 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is MVVM? Define responsibilities for each component.
 * Layered architecture
 * What is CQRS? 
+* What is CQS and how it relates to CQRS?
 * What is a command in CQRS terms?
+* What command handler is and what it does?
 * Which type of projects is the best to introduce CQRS?
-* Difference between statefull and stateless service.
+* Difference between stateful and stateless service.
+* What is the blue DDD book?
+* What is DDD?
+* What is the bounded context? How to identify a bounded context? Describe the example of two bounded contexts in terms of the same domain.
+* Aggregate, AggregateRoot, Entity, ValueObject - what are those? Describe difference between them
+* Command & Event - differences between them
+* Immutability - what is that? Should commands or events be immutable?
+* What is saga? Come up with real world example to explain sagas.
+* What is event sourcing?
+* What is snapshotting in terms of event sourcing?
+* What is a projection?
+* What is AOP? Which parts of the system would you move to aspects? 
+
 
 # Database
+* What is CAP theorem?
+* What is eventual consistency?
+* Is the use of GUID as IDs a good practice? 
+* What is sharding?
 
 # Testing
 * What is unit test? Academic definition vs real world definition
 * What is the difference between unit/integration/automated test? Discuss examples
 * What is TDD?
-* 
+* What is BDD?
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
