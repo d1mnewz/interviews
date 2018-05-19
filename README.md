@@ -1,8 +1,11 @@
 # Brief
-At some point of my professional career, I've been through an endless path of interviews. There were some weeks when I had 4-6 interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview/selling the company to you, ~1h of technical interview (what is the difference between abstract class and an interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one. 
+At some point of my professional career, I've been through an endless path of interviews. There were some weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview/selling the company to you, ~1h of technical interview (what is the difference between abstract class and an interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one. 
 
 # My vision on interviews and why you should take those chances
-  TODO
+  I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
+  If there were some questions I didn't know, then it was a good interview. Now I know where my gaps are. I know what to learn next.
+  
+  Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. What you need to remember is to keep balance and the fact that an interviewer is not the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains you the right answers. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel yourself always comfortable and confident during the interviews. 
 
 # So, what is that? 
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
@@ -13,8 +16,11 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is a priority queue? 
 * What is a heap? 
 * What is B-tree? 
+* What is a 2-3-tree? 
+* What is RB-tree? What is AVL-tree?
 * What is Set?
 * What is HashMap and HashSet? Difference between them
+* Implement a linked list during the interview
 
 # Algorithms
 * Given a a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
@@ -22,7 +28,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * Find a loop in a linked list
 * What is NP problem? How to identify it? 
 * What is O(n) notation? Come up with some examples
-* What is collision? What are the ways to handle it? 
+* What is hash collision? What are the ways to handle it? 
 
 
 # Coding Skills
@@ -38,14 +44,16 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * Concurrency
   * Multithreading concepts
   * What is Thread? What is Task? What is Process?
+  * What async/await does underneath?
   * Difference between optimistic and pessimistic concurrency models
   * Difference between being async and concurrent
   * Sync primitives - semaphore, mutex?
   * What is lock()? What is lock() underneath? 
   * Describe a race condition with a real world example
-  * What are non-blocking/non-waiting algorithms? 
+  * What are non-blocking/non-waiting algorithms? Different  types* 
 * Explain the concepts of coupling and cohesion and how they relate to maintainability. As a follow up, please explain afferent coupling and efferent coupling, and how those concepts fit above.
 * LINQ, LINQ to SQL
+* ORM*
 * What is refactoring?
 * What is covariance? What is contravariance?
 * Implement a singleton
@@ -82,6 +90,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is DDD?
 * What is the bounded context? How to identify a bounded context? Describe the example of two bounded contexts in terms of the same domain.
 * Aggregate, AggregateRoot, Entity, ValueObject - what are those? Describe difference between them
+* What is an ubiquitous language? Why is that important?
 * Command & Event - differences between them
 * Immutability - what is that? Should commands or events be immutable?
 * What is saga? Come up with real world example to explain sagas.
@@ -112,6 +121,12 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
 * What is the difference between merge and rebase?
+* What is the difference between Mongo and Redis?
+* What is the difference between queue and topic in messaging systems?
+* What is REST? RESTful?
+* What is SOAP?
+* What is HATEOAS?
+* What is HAL?
 
 
 # Non-technical
@@ -128,6 +143,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 
 
 # What you can ask company
+Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. 
 
 ## Project
 
