@@ -11,7 +11,6 @@ At some point of my professional career, I've been through an endless path of in
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
 
 
-
 # Data Structures
 * What is a priority queue? 
 * What is a heap? 
@@ -141,7 +140,6 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is eventual consistency? BASE?
 * What is reactive programming?
 
-
 # Non-technical
 * What motivates you? 
 * What do you think of technical conferences/meetups? Are they important and why?
@@ -163,6 +161,7 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 * What is the structure of environment I will be working in? Will I have managers attached to me and, if so, then how much? Who will provide me with the work to do? 
 * Will I have an ability to communicate with the client side? How much time will I communicate in English everyday? 
 * Which instruments does your company use for development? Is there any limitations?
+* What level of responsibilities will I have?
 
 ## General
 - Do you have shower to use at your place? Does anyone use it? 
