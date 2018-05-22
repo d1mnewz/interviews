@@ -21,11 +21,13 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is Set?
 * What is HashMap and HashSet? Difference between them
 * Implement a linked list during the interview
+* Implement a graph
 
 # Algorithms
 * Given a a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
 * Reverse a linked list
 * Find a loop in a linked list
+* Write an algorithm to rotate an image 90 degrees clockwise
 * What is NP problem? How to identify it? 
 * What is O(n) notation? Come up with some examples
 * What is hash collision? What are the ways to handle it? 
@@ -47,18 +49,20 @@ I decided to arrange a list of fancy questions I've been asked during the interv
   * What async/await does underneath?
   * Difference between optimistic and pessimistic concurrency models
   * Difference between being async and concurrent
-  * Sync primitives - semaphore, mutex?
+  * Sync primitives - semaphore, mutex, monitor?
   * What is lock()? What is lock() underneath? 
   * Describe a race condition with a real world example
-  * What are non-blocking/non-waiting algorithms? Different  types* 
+  * What are non-blocking/non-waiting algorithms?
+  * Which types of threads do we have?
+  * Where the threads come from?
 * Explain the concepts of coupling and cohesion and how they relate to maintainability. As a follow up, please explain afferent coupling and efferent coupling, and how those concepts fit above.
 * LINQ, LINQ to SQL
-* ORM*
+* What is an ORM? Why is it useful and why not?
 * What is refactoring?
 * What is covariance? What is contravariance?
 * Implement a singleton
 * What is unsafe code? When should you use it? 
-* 
+
 # Low-Level Programming
 * What is Garbage Collector? What problem it solves?
 * How Garbage Collector works? What are the steps?
@@ -83,12 +87,16 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is CQRS? 
 * What is CQS and how it relates to CQRS?
 * What is a command in CQRS terms?
+* What is the difference between command and event?
 * What command handler is and what it does?
 * Which type of projects is the best to introduce CQRS?
 * Difference between stateful and stateless service.
 * What is the blue DDD book?
 * What is DDD?
+* What is domain model?
+* What is anemic domain model? Is it useful?
 * What is the bounded context? How to identify a bounded context? Describe the example of two bounded contexts in terms of the same domain.
+* What is the difference between a bounded context and a subdomain?
 * Aggregate, AggregateRoot, Entity, ValueObject - what are those? Describe difference between them
 * What is an ubiquitous language? Why is that important?
 * Command & Event - differences between them
@@ -106,6 +114,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is eventual consistency?
 * Is the use of GUID as IDs a good practice? 
 * What is sharding?
+* What is partitioning? 
 * What is an index? Clustered/Non-clustered?
 * How much clustered indexes might be? What is clustered index physically? 
 * How can databases be replicated?
@@ -124,9 +133,13 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is the difference between Mongo and Redis?
 * What is the difference between queue and topic in messaging systems?
 * What is REST? RESTful?
+* What is idempotency? in terms of HTTP and/or messaging
+* What is RPC?
 * What is SOAP?
 * What is HATEOAS?
 * What is HAL?
+* What is eventual consistency? BASE?
+* What is reactive programming?
 
 
 # Non-technical
@@ -141,10 +154,32 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What do you do when you get stuck on some problem for too long? 
 * Tell me your 3 best failures
 
-
 # What you can ask company
 Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. 
 
 ## Project
+* What project I will start with? Describe the problem it solves. Describe the technical stack chosen and which tasks I will asked to solve there.
+* Do you have any code review process?
+* What is the structure of environment I will be working in? Will I have managers attached to me and, if so, then how much? Who will provide me with the work to do? 
+* Will I have an ability to communicate with the client side? How much time will I communicate in English everyday? 
+* Which instruments does your company use for development? Is there any limitations?
 
 ## General
+- Do you have shower to use at your place? Does anyone use it? 
+- Do you have library at your place? Name a few books there.
+- Does project offers any business trips/onsites? 
+- Do you have any teambuildings and what they look like? 
+- Do you know anything about your employees hobbies? What they are interested in?
+- Do you have any internal tech talks to improve technical expertise of your employees? If so, who is in charge for that? 
+- Do you use any time logging system? 
+- Describe the paid vacations policy.
+- Describe the process of salary review/performance review. What are the factors included in forming my salary? 
+- Do you have any competence matrix? 
+- Will I be able to work remotely? If so, then how much time/month? 
+- How flexible the schedule is? 
+- How often will I have to over-time and how it's payed? 
+- Which devices will I be provided to work with - laptops/PCs, monitors, smartphones for testings etc.
+- Do you provide any insurance? If so, describe it briefly.
+- Do you offer parking space for your employees? For car/bike. 
+- Do you have any probationary period for new employees? 
+- Do you have something like 13th salary or premiums? 
