@@ -35,6 +35,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is a good hash function?
 * Describe a Travelling Salesman Problem
 * What is dynamic programming?
+* What is memoization? 
 
 # Coding Skills
 * OOP
@@ -188,3 +189,6 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 - Do you offer parking space for your employees? For car/bike. 
 - Do you have any probationary period for new employees? 
 - Do you have something like 13th salary or premiums? 
+- What are some weaknesses of the organization?
+- How often are 1:1s conducted?
+- What opportunities are available to switch roles? How does this work?
