@@ -1,9 +1,9 @@
 # Brief
-At some point of my professional career, I've been through an endless path of interviews. There were some weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview/selling the company to you, ~1h of technical interview (what is the difference between abstract class and an interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one. 
+At some point of my professional career, I've been through an endless path of interviews. There were weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview (we've got coffee machine and cookies), ~1h of technical interview (what is the difference between abstract class and an interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one.
 
 # My vision on interviews and why you should take those chances
   I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
-  If there were some questions I didn't know, then it was a good interview. Now I know where my gaps are. I know what to learn next.
+  If there were some questions I didn't know, then it was a good interview. You sim. I know what to learn next.
   
   Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. What you need to remember is to keep balance and the fact that an interviewer is not the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains you the right answers. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel yourself always comfortable and confident during the interviews. 
 
@@ -20,17 +20,21 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is Set?
 * What is HashMap and HashSet? Difference between them
 * Implement a linked list during the interview
-* Implement a graph
+* Implement a graph during the interview
 
 # Algorithms
 * Given a a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
-* Reverse a linked list
-* Find a loop in a linked list
+* Reverse a linked list during the interview
+* Find a loop in a linked list during the interview
+* Sort an array of integers during the interview
+* What is in-place sorting algorithm?
 * Write an algorithm to rotate an image 90 degrees clockwise
 * What is NP problem? How to identify it? 
 * What is O(n) notation? Come up with some examples
 * What is hash collision? What are the ways to handle it? 
-
+* What is a good hash function?
+* Describe a Travelling Salesman Problem
+* What is dynamic programming?
 
 # Coding Skills
 * OOP
@@ -59,7 +63,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is an ORM? Why is it useful and why not?
 * What is refactoring?
 * What is covariance? What is contravariance?
-* Implement a singleton
+* Implement a singleton during the interview
 * What is unsafe code? When should you use it? 
 
 # Low-Level Programming
@@ -77,6 +81,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * Sockets
 
 # Architecture/OOD
+* Design an Instagram
 * SOLID
 * What are GoF design patterns? Why should you care?
 * Name a few anti-patterns
@@ -107,13 +112,13 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What is AOP? Which parts of the system would you move to aspects?
 * Messaging patterns 
 
-
 # Database
 * What is CAP theorem?
 * What is eventual consistency?
 * Is the use of GUID as IDs a good practice? 
 * What is sharding?
 * What is partitioning? 
+* How to design a good partitioning?
 * What is an index? Clustered/Non-clustered?
 * How much clustered indexes might be? What is clustered index physically? 
 * How can databases be replicated?
@@ -128,6 +133,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
+* What is .NET standard?
 * What is the difference between merge and rebase?
 * What is the difference between Mongo and Redis?
 * What is the difference between queue and topic in messaging systems?
