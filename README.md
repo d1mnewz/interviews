@@ -1,16 +1,16 @@
 # Brief
-At some point of my professional career, I've been through an endless path of interviews. There were weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview (we've got coffee machine and cookies), ~1h of technical interview (what is the difference between abstract class and an interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one.
+At some point in my professional career, I've been through an endless path of interviews. There were weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview (we've got coffee machine and cookies), ~1h of the technical interview (what is the difference between abstract class and interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one.
 
 # My vision on interviews and why you should take those chances
   I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
   If there were some questions I didn't know, then it was a good interview. You sim. I know what to learn next.
   
-  Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. What you need to remember is to keep balance and the fact that an interviewer is not the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains you the right answers. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel yourself always comfortable and confident during the interviews. 
+  Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. What you need to remember is to keep balance and the fact that an interviewer is not the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains you the right answers. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel always comfortable and confident during the interviews. 
 
 # So, what is that? 
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
 
-P.S. I don't really value theoretical questions, but most of the companies I've been to so far ask only those. The best questions are Computer Science fundamentals, practical application of algorithms. The best questions are live coding questions. They give you an insight whether person is able to think in CS way and communicate thoughts to their team.
+P.S. I don't really value theoretical questions, but most of the companies I've been to so far ask only those. The best questions are Computer Science fundamentals, practical application of algorithms. The best questions are live coding questions. They give you an insight whether a person is able to think in CS way and communicate thoughts to their team.
 
 
 # Data Structures
@@ -20,12 +20,12 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is a 2-3-tree? 
 * What is RB-tree? What is AVL-tree?
 * What is Set?
-* What is HashMap and HashSet? Difference between them
+* What are HashMap and HashSet? Difference between them
 * Implement a linked list during the interview
 * Implement a graph during the interview
 
 # Algorithms
-* Given a a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
+* Given a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
 * Reverse a linked list during the interview
 * Find a loop in a linked list during the interview
 * Sort an array of integers during the interview
@@ -43,7 +43,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 # Coding Skills
 * OOP
 * OOP weaknesses
-* procedural / functional / OO: can you describe them?
+* procedural/functional/ OO: can you describe them?
 * What is the value object? Why should you use them?
 * What is IoC? 
 * What is Dependency Inversion? 
@@ -58,7 +58,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
   * Difference between being async and concurrent
   * Sync primitives - semaphore, mutex, monitor?
   * What is lock()? What is lock() underneath? 
-  * Describe a race condition with a real world example
+  * Describe a race condition with a real-world example
   * What are non-blocking/non-waiting algorithms?
   * Which types of threads do we have?
   * Where the threads come from?
@@ -109,7 +109,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is an ubiquitous language? Why is that important?
 * Command & Event - differences between them
 * Immutability - what is that? Should commands or events be immutable?
-* What is saga? Come up with real world example to explain sagas.
+* What is saga? Come up with the real-world example to explain sagas.
 * What is event sourcing?
 * What is snapshotting in terms of event sourcing?
 * What is a projection?
@@ -165,11 +165,11 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Describe what Human Resources means to you.
 * What is broken around you?
 
-# What you can ask company
+# What you can ask the company
 Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. 
 
 ## Project
-* What project I will start with? Describe the problem it solves. Describe the technical stack chosen and which tasks I will asked to solve there.
+* What project I will start with? Describe the problem it solves. Describe the technical stack chosen, why it is like that and which tasks I will be asked to solve there.
 * Do you have any code review process?
 * What is the structure of environment I will be working in? Will I have managers attached to me and, if so, then how much? Who will provide me with the work to do? 
 * Will I have an ability to communicate with the client side? How much time will I communicate in English everyday? 
