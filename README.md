@@ -10,6 +10,8 @@ At some point of my professional career, I've been through an endless path of in
 # So, what is that? 
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
 
+P.S. I don't really value theoretical questions, but most of the companies I've been to so far ask only those. The best questions are Computer Science fundamentals, practical application of algorithms. The best questions are live coding questions. They give you an insight whether person is able to think in CS way and communicate thoughts to their team.
+
 
 # Data Structures
 * What is a priority queue? 
@@ -27,6 +29,7 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * Reverse a linked list during the interview
 * Find a loop in a linked list during the interview
 * Sort an array of integers during the interview
+* Search an element in a sorted and rotated array during the interview (5, 6, 1, 2, 3)
 * What is in-place sorting algorithm?
 * Write an algorithm to rotate an image 90 degrees clockwise
 * What is NP problem? How to identify it? 
@@ -152,12 +155,15 @@ I decided to arrange a list of fancy questions I've been asked during the interv
 * What do you think of technical conferences/meetups? Are they important and why?
 * Why are you looking for a job? 
 * Tell about your last project
-* What are you learning right now?
+* What are you learning right now? Teach me this.
 * Last book you read
 * Why would you leave your current company?
 * How much time do you need to start working full time for us?
 * What do you do when you get stuck on some problem for too long? 
 * Tell me your 3 best failures
+* Why do you want to leave your current company?
+* Describe what Human Resources means to you.
+* What is broken around you?
 
 # What you can ask company
 Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. 
@@ -171,6 +177,10 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 * What level of responsibilities will I have?
 
 ## General
+- Why have you left your last company for this?
+- How do you train/ramp up engineers who are new to the team?
+- Who is your ideal candidate and how can I make myself more like them?
+- Describe what Human Resources means to you.
 - Do you have shower to use at your place? Does anyone use it? 
 - Do you have library at your place? Name a few books there.
 - Does project offers any business trips/onsites? 
