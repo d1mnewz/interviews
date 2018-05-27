@@ -3,7 +3,7 @@ At some point in my professional career, I've been through an endless path of in
 
 # My vision on interviews and why you should take those chances
   I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
-  If there were some questions I didn't know, then it was a good interview. You sim. I know what to learn next.
+  If there were some questions I didn't know, then it was a good interview. I know where my gaps are and this knowledge comes almost for free. The only price I pay is my time and the stress I might experience during the whole process. However, I know what to learn next.
   
   Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. What you need to remember is to keep balance and the fact that an interviewer is not the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains you the right answers. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel always comfortable and confident during the interviews. 
 
@@ -11,7 +11,6 @@ At some point in my professional career, I've been through an endless path of in
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
 
 P.S. I don't really value theoretical questions, but most of the companies I've been to so far ask only those. The best questions are Computer Science fundamentals, practical application of algorithms. The best questions are live coding questions. They give you an insight whether a person is able to think in CS way and communicate thoughts to their team.
-
 
 # Data Structures
 * What is a priority queue? 
@@ -50,6 +49,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is Dependency Injection?
 * Why are interfaces important? 
 * If you have a choice between abstract class and interface, what will you pick?
+* What is the difference between an exception and validation error? When exception should be thrown and when you should catch an exception?
 * Concurrency
   * Multithreading concepts
   * What is Thread? What is Task? What is Process?
