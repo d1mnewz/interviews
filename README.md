@@ -154,7 +154,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 # Non-technical
 * What motivates you? 
 * What do you think of technical conferences/meetups? Are they important and why?
-* [Why are you looking for a job? ](/Answers/Non-technical/Why are you looking for a job.md)
+* [Why are you looking for a job?](Answers/Non-technical/Why%20are%20you%20looking%20for%20a%20job.md)
 * Tell about your last project
 * What are you learning right now? Teach me this.
 * Last book you read
