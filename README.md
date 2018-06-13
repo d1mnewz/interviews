@@ -24,7 +24,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Implement a graph during the interview
 
 # Algorithms
-* Given a big string where characters might repeat. The task is to calculate how many times each character occurs. How would you solve this problem? 
+* Given a stream of Arabic numerals. Find the one that occurs maximum times.
 * Reverse a linked list during the interview
 * Find a loop in a linked list during the interview
 * Sort an array of integers during the interview
@@ -149,11 +149,12 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is HAL?
 * What is eventual consistency? BASE?
 * What is reactive programming?
+* Public API versioning
 
 # Non-technical
 * What motivates you? 
 * What do you think of technical conferences/meetups? Are they important and why?
-* Why are you looking for a job? 
+* [Why are you looking for a job? ](Answers\Non-technical\Why are you looking for a job.md)
 * Tell about your last project
 * What are you learning right now? Teach me this.
 * Last book you read
@@ -166,7 +167,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is broken around you?
 
 # What you can ask the company
-Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. 
+Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. What I really like to do is to start doing 96 and after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
 
 ## Project
 * What project I will start with? Describe the problem it solves. Describe the technical stack chosen, why it is like that and which tasks I will be asked to solve there.
