@@ -82,7 +82,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Stack/heap
 * Large object heap
 * SIMD
-* Sockets
+* What are WebSockets? Where can you use them?
+* What is the difference between polling and long polling in sockets?
 
 # Architecture/OOD
 * Design an Instagram
