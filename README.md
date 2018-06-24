@@ -139,7 +139,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
 * What is .NET standard?
-* What is the difference between merge and rebase?
+* What is merge and rebase, difference between them?
+* Git reset, revert, checkout
 * What is the difference between Mongo and Redis?
 * What is the difference between queue and topic in messaging systems?
 * What is REST? RESTful?
@@ -153,17 +154,15 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Public API versioning
 
 # Non-technical
-* What motivates you? 
+* What motivates you?
 * What do you think of technical conferences/meetups? Are they important and why?
 * [Why are you looking for a job?](Answers/Non-technical/Why%20are%20you%20looking%20for%20a%20job.md)
 * Tell about your last project
 * What are you learning right now? Teach me this.
 * Last book you read
-* Why would you leave your current company?
 * How much time do you need to start working full time for us?
-* What do you do when you get stuck on some problem for too long? 
+* What do you do when you get stuck on some problem for too long?
 * Tell me your 3 best failures
-* Why do you want to leave your current company?
 * Describe what Human Resources means to you.
 * What is broken around you?
 
@@ -183,6 +182,7 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 - How do you train/ramp up engineers who are new to the team?
 - Who is your ideal candidate and how can I make myself more like them?
 - Describe what Human Resources means to you.
+- How do you find the best talents? Are you focused on acquiring the best ones?
 - Do you have shower to use at your place? Does anyone use it? 
 - Do you have library at your place? Name a few books there.
 - Does project offers any business trips/onsites? 
