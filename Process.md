@@ -9,6 +9,8 @@ To be honest, the process is really non-trivial and you almost never see somethi
 
 Usually, when applying for some middle outsourcing companies, you won't have really a lot of pressure on you or a lot of interviews. On the other hand, top CS companies such as Microsoft, Google, Facebook etc are able to do a selection through this multi-level interviewing process to be sure they get the best professionals as they have really a lot of people willing to work for them. 
 
+What is hilarious to me is that during the hiring process tech companies insist candidates know and follow best practices. And then when you actually work there (spoiler) you find out they actually just use a total disaster development process that's held together with duct tape and a few nails. It's like: "Oh do you eat like healthy food? Broccoli and that kind of stuff? Cool we hire you. Now go on and grab a lunch we offer for our employees - fried pork skin and cheese-wiz."
+
 Most of the times, the whole process takes like 3-4 weeks. Then you receive a feedback. 
 As said, a lot of middle outsourcing companies don't give a shit about feedback so it's a good practice to ping recruiter in like ~2 weeks after the interview just to remind them that you are still waiting for the feedback. When you are going on interviews not entirely for the offer, but for the gap identifying, detailed and constructive feedback is really valuable, no matter the result. It enables you to master your skills and fill the gaps and become a better specialist in the end. 
 

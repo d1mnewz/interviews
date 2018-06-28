@@ -78,7 +78,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Explain weak references
 * Describe the process of memory allocation
 * IDisposable and Finalizer
-* How is using() construct useful? 
+* How is using() construct useful? How can it result in resource leaks?
 * Stack/heap
 * Large object heap
 * SIMD
@@ -202,5 +202,6 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 - Do you have any probationary period for new employees? 
 - Do you have something like 13th salary or premiums? 
 - What are some weaknesses of the organization?
+- What are the education opportunities?
 - How often are 1:1s conducted?
 - What opportunities are available to switch roles? How does this work?
