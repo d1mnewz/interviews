@@ -63,7 +63,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
   * Which types of threads do we have?
   * Where the threads come from?
 * Explain the concepts of coupling and cohesion and how they relate to maintainability. As a follow up, please explain afferent coupling and efferent coupling, and how those concepts fit above.
-* LINQ, LINQ to SQL
+* LINQ, lazy execution, EF limitations. 
 * What is an ORM? Why is it useful and why not?
 * What is refactoring?
 * What is covariance? What is contravariance?
