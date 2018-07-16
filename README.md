@@ -93,6 +93,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is MVC? Explain it using ASP.NET example. Define responsibilities. 
 * What is MVVM? Define responsibilities for each component.
 * Layered architecture
+* Explain pub/sub to me
 * What is CQRS? 
 * What is CQS and how it relates to CQRS?
 * What is a command in CQRS terms?
