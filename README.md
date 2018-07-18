@@ -109,7 +109,6 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is the difference between a bounded context and a subdomain?
 * Aggregate, AggregateRoot, Entity, ValueObject - what are those? Describe difference between them
 * What is an ubiquitous language? Why is that important?
-* Command & Event - differences between them
 * Immutability - what is that? Should commands or events be immutable?
 * What is saga? Come up with the real-world example to explain sagas.
 * What is event sourcing?
