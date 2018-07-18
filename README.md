@@ -138,6 +138,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
+* What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)?
 * What is .NET standard?
 * What is merge and rebase, difference between them?
 * Git reset, revert, checkout
