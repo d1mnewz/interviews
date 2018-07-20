@@ -155,7 +155,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is eventual consistency? BASE?
 * What is reactive programming?
 * Public API versioning
-* What is [feature toggling](https://martinfowler.com/articles/feature-toggles.html)?
+* What is [feature toggling](https://martinfowler.com/articles/feature-toggles.html)? [[1]](https://www.youtube.com/watch?v=7qTOdbUAqno) [[2]](https://www.pluralsight.com/courses/dotnet-featuretoggle-implementing) [[3]](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html)
 
 # Non-technical
 * What motivates you?
