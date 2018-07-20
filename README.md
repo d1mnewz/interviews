@@ -138,7 +138,9 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
-* What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)?
+* What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
+* What is static bits vs dynamic bits in terms of CI/CD pipeline?
+* How do you test your CI/CD pipeline?
 * What is .NET standard?
 * What is merge and rebase, difference between them?
 * Git reset, revert, checkout
@@ -153,6 +155,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is eventual consistency? BASE?
 * What is reactive programming?
 * Public API versioning
+* What is [feature toggling](https://martinfowler.com/articles/feature-toggles.html)?
 
 # Non-technical
 * What motivates you?
