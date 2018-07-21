@@ -172,7 +172,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is broken around you?
 
 # What you can ask the company
-Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without enthusiasm. What I really like to do is to start doing 96 and after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
+Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without any enthusiasm. What I really like to do is to start doing 96 and after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
 
 ## Project
 * What project I will start with? Describe the problem it solves. Describe the technical stack chosen, why it is like that and which tasks I will be asked to solve there.

@@ -58,4 +58,4 @@ Most of the time, such negotiation leads to accepting offer.
 > 
 > Thanks for an opportunity, I'm in :) 
 
-What you need to know about negotiation an offer is that transparency is the key - keep things clear and let employer understand your concerns. Once you do that, the path is clear and they will raise initial salary (usually +- 500$/month doesn't make much difference), schedule, etc. 
+What you need to know about negotiation an offer is that transparency is the key - keep things clear and let employer understand your concerns. Once you do that, the path is clear and they will raise initial salary (usually +- 500$/month doesn't make much difference), adjust your schedule, give you more vacation days, etc. 
