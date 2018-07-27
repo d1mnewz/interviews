@@ -140,6 +140,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is Docker?
 * What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
 * What is static bits vs dynamic bits in terms of CI/CD pipeline?
+* What is the concept of [infrastructure as code](https://www.thoughtworks.com/de/insights/blog/infrastructure-code-reason-smile)?
 * How do you test your CI/CD pipeline?
 * What is .NET standard?
 * What is merge and rebase, difference between them?
