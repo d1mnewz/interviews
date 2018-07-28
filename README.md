@@ -48,7 +48,6 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is Dependency Inversion? 
 * What is Dependency Injection?
 * Why are interfaces important? 
-* If you have a choice between abstract class and interface, what will you pick?
 * What is the difference between an exception and validation error? When exception should be thrown and when you should catch an exception?
 * Concurrency
   * Multithreading concepts
@@ -141,6 +140,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
 * What is static bits vs dynamic bits in terms of CI/CD pipeline?
 * What is the concept of [infrastructure as code](https://www.thoughtworks.com/de/insights/blog/infrastructure-code-reason-smile)?
+* What is the difference between authorization and authentication?
 * How do you test your CI/CD pipeline?
 * What is .NET standard?
 * What is merge and rebase, difference between them?
