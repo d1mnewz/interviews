@@ -20,14 +20,15 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is RB-tree? What is AVL-tree?
 * What is Set?
 * What are HashMap and HashSet? Difference between them
-* Implement a linked list during the interview
-* Implement a graph during the interview
+* Implement a linked list during an interview
+* Implement a graph during an interview
 
 # Algorithms
 * Given a stream of Arabic numerals. Find the one that occurs maximum times.
-* Reverse a linked list during the interview
-* Find a loop in a linked list during the interview
-* Sort an array of integers during the interview
+* Reverse a linked list during an interview
+* Convert a binary tree into a doubly linked list during an interview
+* Find a loop in a linked list during an interview
+* Sort an array of integers during an interview
 * Search an element in a sorted and shifted array during the interview (5, 6, 1, 2, 3)
 * What is in-place sorting algorithm?
 * Write an algorithm to rotate an image 90 degrees clockwise
