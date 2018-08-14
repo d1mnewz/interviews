@@ -160,6 +160,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is [feature toggling](https://martinfowler.com/articles/feature-toggles.html)? [[1]](https://www.youtube.com/watch?v=7qTOdbUAqno) [[2]](https://www.pluralsight.com/courses/dotnet-featuretoggle-implementing) [[3]](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html)
 * [What happens when you type 'google.com' into the browser adress bar and press Enter](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)?
 * What is public IP, private IP? NAT? IPv4? IPv6?
+* Explain event hub over service bus, consumer groups and other concepts related.
 
 # Non-technical
 * What motivates you?
