@@ -161,6 +161,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * [What happens when you type 'google.com' into the browser adress bar and press Enter](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)?
 * What is public IP, private IP? NAT? IPv4? IPv6?
 * Explain event hub over service bus, consumer groups and other concepts related.
+* What is partitioned consumer pattern? [Competing Consumer](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)?
+* What is tracing, spans, [opentracing](https://github.com/opentracing/specification/blob/master/specification.md)?
 
 # Non-technical
 * What motivates you?
