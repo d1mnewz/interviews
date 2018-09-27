@@ -39,6 +39,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Describe a Travelling Salesman Problem
 * What is dynamic programming?
 * What is memoization? 
+* Find intersection between 3 sorted arrays: [2,6,7,8], [3,6,8,10], [4,5,6,8] => [6,8]
 
 # Coding Skills
 * OOP
@@ -135,6 +136,9 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is BDD?
 * What is performance testing?
 * What is load testing?
+* What is smoke testing?
+* What is regression testing? Is that correct that benchmarking is a part of regression testing process?
+* What is [chaos testing](https://boyter.org/2016/07/chaos-testing-engineering/)?
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
@@ -157,7 +161,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is eventual consistency? BASE?
 * What is reactive programming?
 * Public API versioning
-* What is [feature toggling](https://martinfowler.com/articles/feature-toggles.html)? [[1]](https://www.youtube.com/watch?v=7qTOdbUAqno) [[2]](https://www.pluralsight.com/courses/dotnet-featuretoggle-implementing) [[3]](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html)
+* What is [feature toggling/flagging](https://martinfowler.com/articles/feature-toggles.html)? [[1]](https://www.youtube.com/watch?v=7qTOdbUAqno) [[2]](https://www.pluralsight.com/courses/dotnet-featuretoggle-implementing) [[3]](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html)
 * [What happens when you type 'google.com' into the browser adress bar and press Enter](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)?
 * What is public IP, private IP? NAT? IPv4? IPv6?
 * Explain event hub over service bus, consumer groups and other concepts related.
@@ -173,9 +177,12 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Last book you read
 * How much time do you need to start working full time for us?
 * What do you do when you get stuck on some problem for too long?
-* Tell me your 3 best failures
+* Tell me your 3 best/last failures
 * Describe what Human Resources means to you.
 * What is broken around you?
+* When was the last time when you did not agree with some blog post/book/video? What was that and why you did not agree?
+* When was the last time when you shared the knowledge with somebody else? Did you like it? Why did you do that?
+* Explain me your learning process, validation of the information and using it in practice.
 
 # What you can ask the company
 Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without any enthusiasm. What I really like to do is to start doing 96 and after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
