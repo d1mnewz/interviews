@@ -116,7 +116,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is snapshotting in terms of event sourcing?
 * What is a projection?
 * What is AOP? Which parts of the system would you move to aspects?
-* Messaging patterns 
+* [Messaging patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
+  * What is [CorrelationId](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html)?
 
 # Database
 * What is CAP theorem?
@@ -167,6 +168,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Explain event hub over service bus, consumer groups and other concepts related.
 * What is partitioned consumer pattern? [Competing Consumer](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)?
 * What is tracing, spans, [opentracing](https://github.com/opentracing/specification/blob/master/specification.md)?
+* What is ELK stack?
+* What is structured logging? Does it have any advantages over plaintext logging?
 
 # Non-technical
 * What motivates you?
