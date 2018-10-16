@@ -149,6 +149,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is the difference between authorization and authentication?
 * What is .NET standard?
 * What is merge and rebase, difference between them?
+* [Git hooks](https://www.atlassian.com/git/tutorials/git-hooks)
 * Git reset, revert, checkout
 * What is the difference between Mongo and Redis?
 * What is the difference between queue and topic in messaging systems?
