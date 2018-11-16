@@ -2,6 +2,7 @@
 At some point in my professional career, I've been through an endless path of interviews. There were weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview (we've got coffee machine and cookies), ~1h of the technical interview (what is the difference between abstract class and interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one.
 
 # My vision on interviews and why you should take those chances
+  I want to share how I approach my way to become a better engineer.
   I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
   If there were some questions I didn't know, then it was a good interview. I know where my gaps are and this knowledge comes almost for free. The only price I pay is my time and the stress I might experience during the whole process. However, I know what to learn next.
   
@@ -90,6 +91,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Design an Instagram
 * SOLID
 * What are GoF design patterns? Why should you care?
+* What is the difference between IoC and service locator? 
 * Name a few anti-patterns
 * What is MVC? Explain it using ASP.NET example. Define responsibilities. 
 * What is MVVM? Define responsibilities for each component.
@@ -121,6 +123,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 
 # Database
 * What is CAP theorem?
+* Why CAP theorem is obsolete? Is it? 
 * What is eventual consistency?
 * Is the use of GUID as IDs a good practice? 
 * What is sharding?
@@ -128,7 +131,9 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * How to design a good partitioning?
 * What is an index? Clustered/Non-clustered?
 * How much clustered indexes might be? What is clustered index physically? 
+* Explain the difference between index seek and index scan
 * How can databases be replicated?
+* What is cold data and hot data?
 
 # Testing
 * What is unit test? Academic definition vs real world definition
@@ -144,7 +149,6 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
 * What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
-* What is static bits vs dynamic bits in terms of CI/CD pipeline?
 * What is the concept of [infrastructure as code](https://www.thoughtworks.com/de/insights/blog/infrastructure-code-reason-smile)?
 * What is the difference between authorization and authentication?
 * What is .NET standard?
