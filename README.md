@@ -41,11 +41,13 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is dynamic programming?
 * What is memoization? 
 * Find intersection between 3 sorted arrays: [2,6,7,8], [3,6,8,10], [4,5,6,8] => [6,8]
-
+* Generate a [sequence of unique random numbers.](https://stackoverflow.com/questions/196017/unique-non-repeating-random-numbers-in-o1)
+ 
 # Coding Skills
 * OOP
 * OOP weaknesses
 * procedural/functional/ OO: can you describe them?
+* Why OOP was favored by industry for so many years?
 * What is the value object? Why should you use them?
 * What is IoC? 
 * What is Dependency Inversion? 
@@ -53,6 +55,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Why are interfaces important? 
 * What is the difference between an exception and validation error? When exception should be thrown and when you should catch an exception?
 * Concurrency
+  * Why do we need concurrency? 
   * Multithreading concepts
   * What is Thread? What is Task? What is Process?
   * What async/await does underneath?
@@ -81,7 +84,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Describe the process of memory allocation
 * IDisposable and Finalizer
 * How is using() construct useful? How can it result in resource leaks?
-* Stack/heap
+* Stack/heap. What is stack overflow physically? 
 * Large object heap
 * SIMD
 * What are WebSockets? Where can you use them?
@@ -91,6 +94,10 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Design an Instagram
 * SOLID
 * What are GoF design patterns? Why should you care?
+* What's can go wrong with Active Record pattern?
+* What do you think about `null`? How to avoid it? 
+* What is [composition over inheritance](https://stackoverflow.com/questions/49002/prefer-composition-over-inheritance)?
+* What should you return concrete implementation or abstraction?  E.g. `List` or `IList`? When you would pick one approach over another? Think about performance as well. 
 * What is the difference between IoC and service locator? 
 * Name a few anti-patterns
 * What is MVC? Explain it using ASP.NET example. Define responsibilities. 
@@ -120,10 +127,12 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is AOP? Which parts of the system would you move to aspects?
 * [Messaging patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
   * What is [CorrelationId](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html)?
+* How to design against vendor lock-in? 
 
 # Database
 * What is CAP theorem?
 * Why CAP theorem is obsolete? Is it? 
+* What is ACID? Is it still a thing?
 * What is eventual consistency?
 * Is the use of GUID as IDs a good practice? 
 * What is sharding?
@@ -134,6 +143,13 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * Explain the difference between index seek and index scan
 * How can databases be replicated?
 * What is cold data and hot data?
+* How would you migrate an application from one database to another, for example from MySQL to PostgreSQL? If you had to manage that project, which issues would you expect to face?
+* What is lazy loading? What are the drawbacks of this approach?
+* How to find the most expensive queries in an application? How to monitor your database health and load? 
+* What are database normalizaton rules? Is it acceptable to have denormalized database? If so, in which cases?
+* How to do blue-green deployments including database? 
+* How NoSQL databases scale? How SQL databases scale? 
+* When to use NoSQL and when to use SQL?
 
 # Testing
 * What is unit test? Academic definition vs real world definition
@@ -145,6 +161,9 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is smoke testing?
 * What is regression testing? Is that correct that benchmarking is a part of regression testing process?
 * What is [chaos testing](https://boyter.org/2016/07/chaos-testing-engineering/)?
+* Why in TDD are tests written before code?
+* How to test a distributed system? Which types of test will you write? Which instruments would you use?
+
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
@@ -159,13 +178,13 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is the difference between queue and topic in messaging systems?
 * What is REST? RESTful?
 * What is idempotency? in terms of HTTP and/or messaging
-* What is RPC?
+* What is RPC? What are the general pitfalls of RPC?
 * What is SOAP?
 * What is HATEOAS?
 * What is HAL?
 * What is eventual consistency? BASE?
 * What is reactive programming?
-* Public API versioning
+* Public API versioning, how to do that right. 
 * What is [feature toggling/flagging](https://martinfowler.com/articles/feature-toggles.html)? [[1]](https://www.youtube.com/watch?v=7qTOdbUAqno) [[2]](https://www.pluralsight.com/courses/dotnet-featuretoggle-implementing) [[3]](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html)
 * [What happens when you type 'google.com' into the browser adress bar and press Enter](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)?
 * What is public IP, private IP? NAT? IPv4? IPv6? [[0]](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking) [[1]](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
@@ -174,6 +193,14 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is tracing, spans, [opentracing](https://github.com/opentracing/specification/blob/master/specification.md)?
 * What is [ELK stack](https://www.elastic.co/elk-stack)?
 * What is [structured logging](https://nblumhardt.com/2016/06/structured-logging-concepts-in-net-series-1/)? Does it have any advantages over plaintext logging?
+* [Why does array index start with '0' in most of languages?](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
+* What are dynamic- and static-typed languages? Which one to pick for developing enterprise software? Explain your thoughts. 
+* What is overengineering? How can it affect enterprise software in a short run and in a long run?
+* What is the difference between pattern matching and just a switch clause?
+* Pretend you have a time machine and pretend that you have the opportunity to go to a particular point in time during Java's (or C#, Python, Go or whatever) history, and talk with some of the JDK architects. What would you try to convince them of? Removing checked exceptions? Adding unsigned primitives? Adding multiple-inheritance?
+* How to explain legacy code to non-technical person e.g. Project Manager or Product Owner? Why it's important to care about legacy code? How would you deal with legacy code?
+* When to use cache? When it can be not useful or even dangerous?
+* I want to refactor a legacy system. You want to rewrite it from scratch. Argument. Then, switch our roles.
 
 # Non-technical
 * What motivates you?
