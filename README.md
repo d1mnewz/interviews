@@ -163,6 +163,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is [chaos testing](https://boyter.org/2016/07/chaos-testing-engineering/)?
 * Why in TDD are tests written before code?
 * How to test a distributed system? Which types of test will you write? Which instruments would you use?
+* What is a [test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)?
 
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
