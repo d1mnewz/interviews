@@ -5,7 +5,7 @@ At some point in my professional career, I've been through an endless path of in
   I want to share how I approach my way to become a better engineer.
   I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
   If there were some questions I didn't know, then it was a good interview. I know where my gaps are and this knowledge comes almost for free. The only price I pay is my time and the stress I might experience during the whole process. However, I know what to learn next.
-  
+
   Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. Keep balance - don't let him put pressure on you remember the fact that an interviewer is not always the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains the right answers to you afterwards. He's also a human who might be mistaken. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel always comfortable and confident during the interviews. 
 
 # So, what is that? 
@@ -42,7 +42,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is memoization? 
 * Find intersection between 3 sorted arrays: [2,6,7,8], [3,6,8,10], [4,5,6,8] => [6,8]
 * Generate a [sequence of unique random numbers.](https://stackoverflow.com/questions/196017/unique-non-repeating-random-numbers-in-o1)
- 
+
 # Coding Skills
 * OOP
 * OOP weaknesses
@@ -180,6 +180,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is REST? RESTful?
 * What is idempotency? in terms of HTTP and/or messaging
 * What is RPC? What are the general pitfalls of RPC?
+* What is gRPC? When it could be useful?
+* What is the difference between RPC and gRPC?
 * What is SOAP?
 * What is HATEOAS?
 * What is HAL?
