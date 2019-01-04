@@ -169,6 +169,7 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
 * What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
+* What is [CanaryRelease](https://martinfowler.com/bliki/CanaryRelease.html)?
 * What is the concept of [infrastructure as code](https://www.thoughtworks.com/de/insights/blog/infrastructure-code-reason-smile)?
 * What is the difference between authorization and authentication?
 * What is .NET standard?
