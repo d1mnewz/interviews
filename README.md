@@ -205,6 +205,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * How to explain legacy code to non-technical person e.g. Project Manager or Product Owner? Why it's important to care about legacy code? How would you deal with legacy code?
 * When to use cache? When it can be not useful or even dangerous?
 * I want to refactor a legacy system. You want to rewrite it from scratch. Argument. Then, switch our roles.
+* What is GOTO statement? [What's wrong with it](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)? Do we still have GOTO statements or something similar to them in modern programming languages?
+* What is monorepo and what is multirepo? When it's better to chose one over another? [[0]](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) [[1]](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
 
 # Non-technical
 * What motivates you?
