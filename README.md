@@ -168,6 +168,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
 * What is Docker?
+* What is Kubernetes?
+* What happens when [you run `kubectl run --image=nginx --replicas=3`](https://github.com/jamiehannaford/what-happens-when-k8s)?
 * What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
 * What is [CanaryRelease](https://martinfowler.com/bliki/CanaryRelease.html)?
 * What is the concept of [infrastructure as code](https://www.thoughtworks.com/de/insights/blog/infrastructure-code-reason-smile)?
