@@ -124,9 +124,12 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is event sourcing?
 * What is snapshotting in terms of event sourcing?
 * What is a projection?
+* Describe the role of aggregate in CQRS/ES/DDD environment. Go deep on two-phase commit on writing an event to the event store and publishing event to a bus. Are transactions good candidates for that kind of case? If not, how to avoid transactions in that case?
+* Can you send a command to another bounded context in CQRS/ES/DDD environment? Can you publish an event to another bounded context in CQRS/ES/DDD environment?
 * What is AOP? Which parts of the system would you move to aspects?
 * [Messaging patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
   * What is [CorrelationId](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html)?
+  * When a retry policy is suitable in general? When should you retry your command/API call? 
 * How to design against vendor lock-in? 
 
 # Database
@@ -190,6 +193,8 @@ P.S. I don't really value theoretical questions, but most of the companies I've 
 * What is HAL?
 * What is eventual consistency? BASE?
 * What is reactive programming?
+* What is tail recursion? 
+* What is cyclomatic complexity?
 * Public API versioning, how to do that right. 
 * What is [feature toggling/flagging](https://martinfowler.com/articles/feature-toggles.html)? [[1]](https://www.youtube.com/watch?v=7qTOdbUAqno) [[2]](https://www.pluralsight.com/courses/dotnet-featuretoggle-implementing) [[3]](http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html)
 * [What happens when you type 'google.com' into the browser adress bar and press Enter](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)?
