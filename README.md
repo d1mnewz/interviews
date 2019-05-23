@@ -12,6 +12,7 @@ At some point in my professional career, I've been through an endless path of in
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
 
 P.S. I don't really value theoretical questions, but most of the companies I've been to so far ask only those. The best questions are Computer Science fundamentals, practical application of algorithms. The best questions are live coding questions. They give you an insight whether a person is able to think in CS way and communicate thoughts to their team.
+P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to that, but it's not clear to me that companies always know what's best. Too often, they don't hire based on the software lifecycle. Instead, they hire people based only on the coding part of the lifecycle. They think they need great coders, but what they really need are software engineers, the ones who look beyond the code. 
 
 # Data Structures
 * What is a priority queue? 
