@@ -215,6 +215,7 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * I want to refactor a legacy system. You want to rewrite it from scratch. Argument. Then, switch our roles.
 * What is GOTO statement? [What's wrong with it](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)? Do we still have GOTO statements or something similar to them in modern programming languages?
 * What is monorepo and what is multirepo? When it's better to chose one over another? [[0]](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) [[1]](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
+* Tell me about your favorite language/framework. After that, tell me why it's crappy.
 
 # Non-technical
 * What motivates you?
