@@ -1,6 +1,6 @@
 # Why are you looking for a job?
 
-There is no 100% correct answer to this question. However, there are a lot of good-to-go answers that will fit almost every employer. 
+There is no 100% correct answer to this question. However, there are a lot of good-to-go answers that will fit almost every employer. The answers which are socially acceptable.
 
 To discover what is expected from candidate to say, I want to dig into details why this questions is asked and what is show to employer.
 
@@ -9,7 +9,8 @@ Usually, this question is asked to determine which conditions made you uncomfort
 Also, an answer to this question can help employer to figure out a few important things:
 * What can possibly demotivate candidate
 * How candidate behaves in uncomfortable situations
-* Which strategies candidate uses to solve such problems.
+* Which strategies candidate uses to solve such problems
+* How candidate thinks of his (ex-)employer
 
 The less desirable answer is something like "I had a conflict with management/team". Even if you didn't initiate this conflict, such answer makes not the best impression of you. 
 Also, usually, it's not the best idea to mention material compensation as the main and only reason why you quit your last job. However, if you call such a reason you must prove that you are worth these money. 
