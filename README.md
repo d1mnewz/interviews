@@ -174,7 +174,7 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * What is Docker?
 * What is Kubernetes?
 * What happens when [you run `kubectl run --image=nginx --replicas=3`](https://github.com/jamiehannaford/what-happens-when-k8s)?
-* What is [green-blue deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
+* What is [blue-green deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)? 
 * What is [CanaryRelease](https://martinfowler.com/bliki/CanaryRelease.html)?
 * What is the concept of [infrastructure as code](https://www.thoughtworks.com/de/insights/blog/infrastructure-code-reason-smile)?
 * What is the difference between authorization and authentication?
