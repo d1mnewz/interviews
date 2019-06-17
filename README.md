@@ -19,8 +19,6 @@
 # Brief
 At some point in my professional career, I've been through an endless path of interviews. There were weeks when I had 4-6 offline interviews scheduled and that was not the limit I believe. There were some exceptions, but mostly they were quite standard: 15 minutes HR interview (we've got coffee machine and cookies), ~1h of the technical interview (what is the difference between abstract class and interface questions for an hour), your questions to the company and that's it. You get an offer, decline it and go for the next one.
 
-[_^ back to TOC^_](#table-of-contents)
-
 # My vision on interviews and why you should take those chances
   I want to share how I approach my way to become a better engineer.
   I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market etc. 
@@ -28,15 +26,12 @@ At some point in my professional career, I've been through an endless path of in
 
   Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. Keep balance - don't let him put pressure on you remember the fact that an interviewer is not always the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains the right answers to you afterwards. He's also a human who might be mistaken. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice to feel always comfortable and confident during the interviews. 
 
-[_^ back to TOC^_](#table-of-contents)
-
 # So, what is that? 
 I decided to arrange a list of fancy questions I've been asked during the interviews I had. They might be useful for you.
 
 P.S. I don't really value theoretical questions, but most of the companies I've been to so far ask only those. The best questions are Computer Science fundamentals, practical application of algorithms. The best questions are live coding questions. They give you an insight whether a person is able to think in CS way and communicate thoughts to their team.
 P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to that, but it's not clear to me that companies always know what's best. Too often, they don't hire based on the software lifecycle. Instead, they hire people based only on the coding part of the lifecycle. They think they need great coders, but what they really need are software engineers, the ones who look beyond the code. 
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Data Structures
 * What is a priority queue? 
@@ -49,7 +44,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * Implement a linked list during an interview
 * Implement a graph during an interview
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Algorithms
 * Given a stream of Arabic numerals. Find the one that occurs maximum times.
@@ -70,7 +64,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * Find intersection between 3 sorted arrays: [2,6,7,8], [3,6,8,10], [4,5,6,8] => [6,8]
 * Generate a [sequence of unique random numbers.](https://stackoverflow.com/questions/196017/unique-non-repeating-random-numbers-in-o1)
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Coding Skills
 * OOP
@@ -104,7 +97,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * Implement a singleton during the interview
 * What is unsafe code? When should you use it? 
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Low-Level Programming
 * What is Garbage Collector? What problem it solves?
@@ -121,7 +113,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * What are WebSockets? Where can you use them?
 * What is the difference between polling and long polling in sockets?
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Architecture/OOD
 * Design an Instagram
@@ -165,7 +156,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
   * When a retry policy is suitable in general? When should you retry your command/API call? 
 * How to design against vendor lock-in? 
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Database
 * What is CAP theorem?
@@ -189,7 +179,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * How NoSQL databases scale? How SQL databases scale? 
 * When to use NoSQL and when to use SQL?
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Testing
 * What is unit test? Academic definition vs real world definition
@@ -205,7 +194,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * How to test a distributed system? Which types of test will you write? Which instruments would you use?
 * What is a [test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)?
 
-[_^ back to TOC^_](#table-of-contents)
 
 # General
 * How testing frameworks such as xUnit & NUnit know what methods to run?
@@ -255,7 +243,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * What is monorepo and what is multirepo? When it's better to chose one over another? [[0]](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) [[1]](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
 * Tell me about your favorite language/framework. After that, tell me why it's crappy.
 
-[_^ back to TOC^_](#table-of-contents)
 
 # Non-technical
 * What motivates you?
@@ -273,8 +260,6 @@ P.P.S. The philosophy of hiring is mostly "hiring the best ones" - I agree to th
 * When was the last time when you shared the knowledge with somebody else? Did you like it? Why did you do that?
 * Explain me your learning process, validation of the information and using it in practice.
 
-[_^ back to TOC^_](#table-of-contents)
-
 # What you can ask the company
 Don't ask them if you just wanna make an impression because you will. And it's gonna be a freaking bad impression - asking by template without any enthusiasm. What I really like to do is to start doing 96 and after recruiter asked you "Where do you see yourself in 5 years" it's totally reasonable to ask where the company sees itself in 5 years.
 
@@ -288,7 +273,6 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 * Which instruments does your company use for development? Is there any limitations?
 * What level of responsibilities will I have?
 
-[_^ back to TOC^_](#table-of-contents)
 
 ## General
 - Why have you left your last company for this?
@@ -319,5 +303,3 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 - What are the education opportunities?
 - How often are 1:1s conducted?
 - What opportunities are available to switch roles? How does this work?
-
-[_^ back to TOC^_](#table-of-contents)
