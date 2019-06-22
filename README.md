@@ -280,6 +280,7 @@ Don't ask them if you just wanna make an impression because you will. And it's g
 
 - Why have you left your last company for this?
 - How do you train/ramp up engineers who are new to the team?
+- Do you have your [onboarding process documented](https://twitter.com/housecor/status/1142153344179429378)?
 - Who is your ideal candidate and how can I make myself more like them?
 - Describe what Human Resources means to you.
 - How do you find the best talents? Are you focused on acquiring the best ones?
