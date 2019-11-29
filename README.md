@@ -35,7 +35,7 @@ I want to share how I approach my way to become a better engineer.
 I see technical interviews as an opportunity to improve my knowledge of the platform, engineering in general, market, etc.
 If there were some questions I didn't know, then it was a good interview. In some way, I believe, it's positive to be judged. I know where my gaps are and this knowledge comes almost for free. The only price I pay is my time and the stress I might experience during the whole process. However, I know what to learn next and this is what is important.
 
-Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. Keep a balance - don't let him put pressure on you; remember the fact that an interviewer is not always the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains the right answers to you afterward. He's also a human being who might be mistaken. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice feeling always comfortable and confident during the interviews.
+Attending each interview is stressful. Don't be scared - it's also stressful for an interviewer. Keep a balance - don't let him put pressure on you; remember the fact that an interviewer is not always the smartest person in the room. You can't be sure he asks you the right questions. You can't be sure he explains the right answers to you afterward. He's also a human being who might be mistaken. But excellence is achieved only with practice - having that in mind you can also start your interviews-journey. You should practice feeling always comfortable and confident during the interviews. It's a marathon, not a sprint, but you still gotta win the race.
 So, you should at least know what types of questions to expect.
 
 ## What interviewer might ask you
@@ -101,6 +101,7 @@ So, you should at least know what types of questions to expect.
 - LINQ, lazy execution, EF limitations.
 - What is an ORM? Why is it useful and why not?
 - What is refactoring?
+- Please refactor some given piece of code and comment your actions.
 - What is covariance? What is contravariance?
 - Implement a singleton during the interview
 - What is unsafe code? When should you use it?
