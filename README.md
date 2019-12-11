@@ -176,8 +176,9 @@ So, you should at least know what types of questions to expect.
 - What is partitioning?
 - How to design a good partitioning?
 - What is an index? Clustered/Non-clustered?
-- How much clustered indexes might be? What is clustered index physically?
+- How much clustered indexes might be? What is clustered index physically? What kind of data structures could be used for indexes? Why index lookups are fast? Is clustered index faster than non-clustered? Why?
 - Explain the difference between index seek and index scan
+- What is column-store index? When would you use it?
 - How can databases be replicated?
 - What is cold data and hot data?
 - How would you migrate an application from one database to another, for example from MySQL to PostgreSQL? If you had to manage that project, which issues would you expect to face?
