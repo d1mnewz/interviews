@@ -207,6 +207,7 @@ So, you should at least know what types of questions to expect.
 ### General
 
 - How testing frameworks such as xUnit & NUnit know what methods to run?
+- What is the most interesting thing you've made?
 - What is Docker?
 - What is Kubernetes?
 - What happens when [you run `kubectl run --image=nginx --replicas=3`](https://github.com/jamiehannaford/what-happens-when-k8s)?
