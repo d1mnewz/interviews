@@ -307,6 +307,8 @@ What I also really like to do is to start doing 96 so after recruiter asked you 
 - What are the educational opportunities?
 - How often are 1:1s conducted?
 - What opportunities are available to switch roles? How does this work?
+- If you could change one thing about the company, whether it's a process, technology used, or anything else, what would it be?
+- What is the toughest problem company've faced so far, aside from not enough people, and how did you or plan to solve it?
 
 ### Project
 
