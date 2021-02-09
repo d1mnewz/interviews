@@ -165,10 +165,12 @@ So, you should at least know what types of questions to expect.
   - When a retry policy is suitable in general? When should you retry your command/API call?
 - How to design against vendor lock-in?
 
+
 ### Database
 
 - What is CAP theorem?
 - Why CAP theorem is obsolete? Is it?
+- What is RAFT? How does it solve the problem?
 - What is ACID? Is it still a thing?
 - What is eventual consistency?
 - Is the use of GUID as IDs a good practice?
