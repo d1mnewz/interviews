@@ -290,6 +290,8 @@ What I also really like to do is to start doing 96 so after recruiter asked you 
 - Do you have a library at your place? Name a few books there.
 - Do you have any teambuildings and what they look like?
 - Do you know anything about your employees' hobbies? What they are interested in?
+- How much vacation does the average employee take?
+- Do you enforce a minimum number of days of taken vacation per year? (Secret: a lot of “unlimited vacation day” policies actually lead to employees taking less time off because they feel guilty.)
 - Do you have any internal tech talks to improve the technical expertise of your employees? If so, who is in charge of that?
 - Do you use any time logging system?
 - Describe the paid vacations policy.
